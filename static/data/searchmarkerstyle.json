@@ -38,5 +38,17 @@
   "pokeball": {
     "name": "Pokeball",
     "icon": "static/marker_icons/pokeball.gif"
+      },
+  "brendan": {
+    "name": "Brendan",
+    "icon": "static/marker_icons/brendan.png"
+  },
+  "may": {
+    "name": "May",
+    "icon": "static/marker_icons/may.png"
+  },
+  "ethan": {
+    "name": "Ethan",
+    "icon": "static/marker_icons/ethan.png"
   }
 }
